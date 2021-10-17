@@ -1,7 +1,7 @@
 # Hi, I'm William Reinert!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wreinert)](https://github.com/wreinert)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-reinert-dev)](www.linkedin.com/in/william-reinert-dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-reinert-dev/)](https://www.linkedin.com/in/william-reinert-dev/)
 
 ## About me:
 
