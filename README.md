@@ -5,7 +5,7 @@
 
 ## About me:
 
-I'm a Fullstack Developer Student 🤓
+I'm a Fullstack Developer Student!
 
 Lifelong learner who loves coding, logic and problem solving.
 
