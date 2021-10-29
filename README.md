@@ -8,8 +8,6 @@
 I'm a Fullstack Developer Student!
 
 Lifelong learner who loves coding, logic and problem solving.
-
-"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
  
       
 ## My specialties:
